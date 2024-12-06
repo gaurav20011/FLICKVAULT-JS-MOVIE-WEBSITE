@@ -1,0 +1,21 @@
+    <nav class="navbar">
+      <ul class="nav-menu">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#movies">Movies</a></li>
+        <li><a href="#series">Series</a></li>
+        <li><a href="#genres">Genres</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+
+
+
+    <div class="bg-red text-center">
+        <button id="home"type="button" class="btn btn-outline-primary mx-3  my-4">HOME</button>
+        <button id="tv" type="button" class="btn btn-outline-secondary mx-3 my-4">TV SHOWS</button>
+        <button id="moves" type="button" class="btn btn-outline-success mx-3 my-4">MOVIES</button>
+        <button id="new"type="button" class="btn btn-outline-danger mx-3 my-4">NEW AND POPULAR</button>
+        <button id="light"type="button" class="btn btn-outline-light mx-3 my-4">DRAMA</button>
+        <button id="dark" type="button" class="btn btn-outline-dark mx-3 my-4">Dark</button>
+        </div>
