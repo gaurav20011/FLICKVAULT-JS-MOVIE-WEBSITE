@@ -12,5 +12,7 @@ JavaScript: Handles dynamic data rendering by creating and appending movie cards
 ![Screenshot 2024-12-06 131612](https://github.com/user-attachments/assets/12ab3f67-debe-4342-b611-308fa0a6443e)
 
 
-https://github.com/user-attachments/assets/4569c327-a10d-4683-8564-10669b0dbcf4
+
+https://github.com/user-attachments/assets/da014f26-24ca-4fc4-bd5e-3a0dbff3aa89
+
 
